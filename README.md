@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to play football, volleyball, tennis, table tennis, but I hate watching them on TV 😄
 
-<img src="https://github-readme-stats.vercel.app/api?username=boyan-boyanov&&show_icons=true&title_color=ffffff&icon_color=f7c312&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=boyan-boyanov&&show_icons=true&title_color=ffffff&icon_color=f7c312&text_color=ffffff&bg_color=191919">
