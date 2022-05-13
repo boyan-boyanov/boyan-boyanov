@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on furniture company
 - 🌱 I’m currently learning ExpressJS, MongoDB
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with MongoDB documentation
 - 💬 Ask me about JS, Angular or mathematical problems
 - 📫 How to reach me: Discord: Boyan - Boomboi#1846
