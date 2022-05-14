@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ExpressJS, MongoDB
 - 🤔 I’m looking for help with MongoDB documentation
 - 💬 Ask me about JS, Angular or mathematical problems
-- 📫 How to reach me: <a href="https://discordapp.com/users/642003374069383169">Test</a> Discord: Boyan - Boomboi#1846
+- 📫 How to reach me: <a href="https://discordapp.com/users/642003374069383169">Discord</a>: Boyan - Boomboi#1846
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to play football, volleyball, tennis, table tennis, but I hate watching them on TV 😄
 
