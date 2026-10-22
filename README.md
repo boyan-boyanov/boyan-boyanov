@@ -12,6 +12,4 @@
 React · Vue · TypeScript · JavaScript · Pinia · Zustand · Quasar · Three.js · HTML · CSS · Tailwind · Git
 
 ### Find me
-🌐 Portfolio: [ПОРТФОЛИО_URL]
-💼 LinkedIn: [LINKEDIN_URL]
 📫 b.i.boianov@gmail.com
