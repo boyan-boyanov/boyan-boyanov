@@ -2,7 +2,7 @@
 
 **Frontend Engineer at DXC Technology**, building enterprise web applications with **React, Vue and TypeScript**.
 
-- 🏛️ 3+ years on a large-scale public sector platform (React · TypeScript · Zustand)
+- 🏛️ Since 2023 on a large-scale public sector platform (React · TypeScript · Zustand)
 - 🔧 Currently leading a frontend modernization with Vue · Pinia · Quasar, from legacy analysis to architecture and implementation
 - 🏆 1st place at a company hackathon with an interactive event platform (React)
 - 🎨 Before software: nearly two decades in 3D design and team leadership, which still shapes how I think about users and delivery
