@@ -12,4 +12,4 @@
 React · Vue · TypeScript · JavaScript · Pinia · Zustand · Quasar · Three.js · HTML · CSS · Tailwind · Git
 
 ### Find me
-📫 b.i.boianov@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/boyan-boyanov-dev) · 📫 b.i.boianov@gmail.com
